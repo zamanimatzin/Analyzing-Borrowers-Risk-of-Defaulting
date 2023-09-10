@@ -8,10 +8,10 @@ The purpose of this project either the customer’s marital status and number of
 
 ## Hypotheses
 
-Is there a connection between having kids and repaying a loan on time?
-Is there a connection between marital status and repaying a loan on time?
-Is there a connection between income level and repaying a loan on time?
-How do different loan purposes affect on-time loan repayment?
+1. Is there a connection between having kids and repaying a loan on time?
+2. Is there a connection between marital status and repaying a loan on time?
+3. Is there a connection between income level and repaying a loan on time?
+4. How do different loan purposes affect on-time loan repayment?
 
 ## Description of the data
 
