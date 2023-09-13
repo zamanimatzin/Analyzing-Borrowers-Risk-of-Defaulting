@@ -4,7 +4,7 @@ This project is to prepare a report for a bank’s loan division. It needs to fi
 
 ## Purpose
 
-The purpose of this project to identfy either the customer’s marital status and number of children has an impact on whether they will default on a loan based on client credit score datasets.
+The purpose of this project is to identfiy either the customer’s marital status and number of children has an impact on whether they will default on a loan based on client credit score datasets.
 
 ## Hypotheses
 
